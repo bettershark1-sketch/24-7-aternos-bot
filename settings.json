@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Hunter_Mc1.aternos.me",
-    "port": 51303,
+    "ip": "lyxnetwrok.aternos.me",
+    "port": 42758,
     "version": "1.21.11",
     "try-creative": false
   },
