@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lyxnetwrok.aternos.me",
+    "ip": "lyxnetwork.aternos.me",
     "port": 42758,
     "version": "1.21.11",
     "try-creative": false
