@@ -29,8 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 600,
       "messages": [
+        "Your are the regulare players ",
+        "Subscribe to LYXSLAYER",
+        "Want Cheap Ranks Join Discord Server https://discord.gg/VbrS3KJNAz"
       ]
     },
     "chat-log": true,
